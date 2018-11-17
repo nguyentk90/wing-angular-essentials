@@ -3,7 +3,7 @@ This extension pack for Visual Studio Code adds extensions that are useful for A
 
 See the [CHANGELOG](CHANGELOG.md) for the latest changes
 
-I created this extension pack to share with my team, my colleagues which extensions I'm using for Angular development. I hope it also helpful for you ;).
+I created this extension pack to share with my team and my colleagues which extensions I am using for Angular development. I hope it is also helpful for you ;).
 
 ## Recommended Settings
 
