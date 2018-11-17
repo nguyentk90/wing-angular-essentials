@@ -10,15 +10,15 @@ I created this extension pack to share with my team, my colleagues which extensi
 Editor settings
 
 ```json
-	"editor.tabSize": 2,
-	"editor.wordWrap": "off"
+    "editor.tabSize": 2,
+    "editor.wordWrap": "off"
 ```
 
 Prettier settings
 
 ```json
     "prettier.singleQuote": true,
-    "prettier.printWidth": 100,
+    "prettier.printWidth": 100
 ```
 
 ## Included
