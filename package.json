@@ -14,12 +14,12 @@
     },
     "keywords": [
         "Angular",
-        "Angular 2",
         "Angular 6",
+        "Angular 7",
         "TypeScript",
         "HTML"
     ],
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.29.0"
     },
@@ -33,6 +33,9 @@
         "Angular.ng-template",
         "donjayamanne.githistory",
         "steoates.autoimport",
-        "azemoh.one-monokai"
+        "azemoh.one-monokai",
+        "christian-kohler.path-intellisense",
+        "eg2.tslint",
+        "natewallace.angular2-inline"
     ]
 }

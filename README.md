@@ -34,3 +34,11 @@ Here is the list of extensions the pack includes:
 [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) This extension supports view and search git log along with the graph and details.
 
 [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX.
+
+[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) Visual Studio Code plugin that autocompletes filenames.
+
+[TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) Integrates the tslint linter for the TypeScript language into VS Code.
+
+[angular2-inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline) This package is a language extension for Microsoft Visual Studio Code. It extends the javascript and typescript languages to add Angular2 specific features for inline templates and stylesheets.
+
+[One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) A cross between Monokai and One Dark theme.
