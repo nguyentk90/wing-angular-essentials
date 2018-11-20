@@ -18,7 +18,7 @@ Prettier settings
 
 ```json
     "prettier.singleQuote": true,
-    "prettier.printWidth": 100
+    "prettier.printWidth": 120
 ```
 
 ## Included
