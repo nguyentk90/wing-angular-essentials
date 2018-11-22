@@ -33,7 +33,7 @@ Here is the list of extensions the pack includes:
 
 [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) This extension supports view and search git log along with the graph and details.
 
-[Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX.
+[Auto Import - ES6, TS, JSX, TSX](https://marketplace.visualstudio.com/items?itemName=NuclleaR.vscode-extension-auto-import) Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX.
 
 [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) Visual Studio Code plugin that autocompletes filenames.
 

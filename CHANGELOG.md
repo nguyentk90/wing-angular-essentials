@@ -7,3 +7,7 @@
 - Path Intellisense
 - TSLint
 - angular2-inline
+## 0.0.4
+- Update printWith prettier setting
+## 0.0.5
+- Replace Auto Import to Auto Import - ES6, TS, JSX, TSX
